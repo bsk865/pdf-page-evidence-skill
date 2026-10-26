@@ -1,0 +1,3 @@
+interface:
+  display_name: "PDF 物理页证据核验"
+  short_description: "为原文事实核查保留文件摘要、物理页定位、精确引文和本地验证结果"
